@@ -1,2 +1,2 @@
---colour
---format nested
+--colour --format documentation
+--require spec_helper
